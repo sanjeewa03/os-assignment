@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1542698985 source:c:\tdm-gcc-64\oss\mymalloc.c
+	<stdio.h>
+	<stdlib.h>
+	"mymalloc.h"
+
+1542698949 c:\tdm-gcc-64\oss\mymalloc.h
+
+1542698949 source:c:\tdm-gcc-64\oss\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mymalloc.h"
+
